@@ -1,0 +1,28 @@
+name: VCR
+favicon: null
+layout_spectrum: 0.23502049990929663
+typography_spectrum: 0.5959773000795394
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.26897673308849335
+  lightness: 0.6331140152178705
+  saturation: 0.9105767437722534
+  rhythmicContrast: 0.7194961800705642
+purpose: []
